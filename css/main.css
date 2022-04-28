@@ -1,0 +1,24 @@
+
+.otadiv{
+    width: 1000px;
+    display: flex;
+    margin: auto;
+    background-color: #004047;
+    justify-content: space-around;
+}
+
+.card:hover{
+    background-color: rgba(0, 0, 0, 0.168);
+    color: aliceblue;
+    
+}
+
+.p{
+    opacity: 0;
+    height: 100%;
+}
+.p:hover{
+   
+    opacity: 1;
+
+}
